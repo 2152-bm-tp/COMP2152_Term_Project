@@ -1,16 +1,13 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+2152-bm-tp
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Ben Morrison |redis.0x10.cloud port 6379 | ben_morrison_101572409 |
 
 ## Videos
 
